@@ -1,0 +1,16 @@
+package com.welcome;
+
+public class Welcome {
+
+	public static void main(String args[])
+	{
+	 String a="hal jordan";
+   	 int b= 49;
+   	 System.out.println("Name:"+ a);
+   	 System.out.println("age:"+ b);
+		System.out.println("we are bored");
+	}
+}
+
+    	 
+    	 
